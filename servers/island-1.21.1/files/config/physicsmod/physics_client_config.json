@@ -14,7 +14,7 @@
   "particleDespawnTimeVarianceSmoke": 12.0,
   "cpuThreads": 4,
   "itemPhysics": false,
-  "minecraftBlockBreakParticles": false,
+  "minecraftBlockBreakParticles": true,
   "vinePhysics": false,
   "capePhysics": true,
   "fishingRodPhysics": true,
